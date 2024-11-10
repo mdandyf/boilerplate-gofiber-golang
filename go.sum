@@ -1,0 +1,8 @@
+github.com/gofiber/fiber v2.10.0 h1:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+github.com/gofiber/fiber v2.10.0/go.mod h1:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+github.com/rs/zerolog v1.26.0 h1:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+github.com/rs/zerolog v1.26.0/go.mod h1:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+github.com/go-redis/redis/v8 v8.11.2 h1:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+github.com/go-redis/redis/v8 v8.11.2/go.mod h1:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
